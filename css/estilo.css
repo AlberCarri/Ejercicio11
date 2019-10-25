@@ -13,3 +13,8 @@ footer{
 
     text-align: right;
 }
+
+table{
+    border-collapse: collapse;
+
+}
